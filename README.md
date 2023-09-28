@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Challenge ONE | Java | Back-end | Hotel Alura
 
 <p align="center" >
@@ -295,3 +296,7 @@ La pestaña de <em>Design</em> se abrirá por encima de la zona del <em>Console<
 💙 <strong>Alura Latam</strong></br>
 <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
 <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+=======
+# HOTEL-ALURA
+"Gestiona reservas de hotel de manera eficiente con Hotel Alura, una aplicación en Java. Simplifica la administración y reserva de habitaciones con esta herramienta intuitiva."
+>>>>>>> 04d0e6a4f8e9940ea565dc241879efdb4c4bc742
